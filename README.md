@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @emilyclam
 - 👀 I’m interested in game development!
 - 🌱 I’m currently learning the pygame module... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me through email at emilychilam@gmail.com
 
 <!---
 emilyclam/emilyclam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
