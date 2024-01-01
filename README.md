@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @emilyclam
 - 👀 I’m interested in game development!
-- 🌱 I’m currently learning the pygame module... 
 - 📫 Reach me through email at emilychilam@gmail.com
 
 <!---
