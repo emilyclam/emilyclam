@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @emilyclam
-- 👀 I’m interested in game development!
-- 📫 Reach me through email at emilychilam@gmail.com
+# Hello!
+
+I’m Emily, an aspiring full-stack developer.
+
+---
+- 💻 Languages: Python, JavaScript, Typescript
+- ⚙️ Frameworks: Django, React, Node.js
+- ☁️ Tools: AWS, Docker, Git
+---
+[LinkedIn](https://www.linkedin.com/in/emily-lam-200439202/) | [Portfolio](https://emilyclam.github.io/) | emilychilam@gmail.com
 
 <!---
 emilyclam/emilyclam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
